@@ -1,6 +1,7 @@
 # Stack Overflow Developer Income Analysis
 
 A data analytics and machine learning project investigating the factors that influence software developer income using the Stack Overflow Developer Survey dataset.
+It follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology to investigate the factors influencing software developer income using the 2024 Stack Overflow Developer Survey.
 It demonstrates the complete data analysis lifecycle, from data cleaning and exploratory data analysis through to clustering, predictive modelling and model evaluation.
 
 ---
@@ -151,6 +152,22 @@ Model performance was evaluated using:
 - Predictive Analytics
 
 ---
+
+## Key Findings
+The analysis identified several factors strongly associated with higher developer income:
+
+- Professional coding experience showed a strong positive relationship with annual compensation.
+- Developers in countries such as the United States, Switzerland and Australia generally reported higher salaries.
+- Data Scientists, DevOps Engineers and Machine Learning Engineers earned higher median salaries than many other developer roles.
+- Developers proficient in specialist technologies such as Go and Rust tended to report higher earnings.
+- Larger organisations generally offered higher median compensation than smaller companies.
+
+Machine learning models showed that geographical location, years of professional experience and organisation size were among the most important predictors of developer income.
+
+## Example Visualisations
+### Income Distribution
+
+
 
 ## Repository Structure
 
