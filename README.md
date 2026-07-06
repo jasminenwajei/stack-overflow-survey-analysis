@@ -166,7 +166,13 @@ Machine learning models showed that geographical location, years of professional
 
 ## Example Visualisations
 ### Income Distribution
+![Income Distribution](images/income_distribution.png)
 
+### K-Means Clustering
+![Clusters](images/kmeans_elbow.png)
+
+### Feature Importance
+![Features](images/feature_importance.png)
 
 
 ## Repository Structure
